@@ -1,0 +1,8 @@
+package com.ms.email.model;
+
+@Entity
+public class EmailModel {
+	
+	
+
+}
