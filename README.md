@@ -1,2 +1,4 @@
 # email-api
- Microservice para envio de email
+Estoudo de Microservice para envio de email feito com professora Michelli Brito
+ 
+ 
